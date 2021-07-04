@@ -1,0 +1,10 @@
+.test {
+    text-align: center;
+    display: flex;
+
+    &__red {
+        background: red;
+        font-size: 25px;
+        color: green;
+    }
+}
